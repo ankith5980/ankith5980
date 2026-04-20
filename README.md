@@ -75,6 +75,35 @@ Continuous development and enhancement of KOHA Library Management System
 - **Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
 - **Features:** Book tracking, borrower management, ticket printing
 
+### ♣️ [Club Management System](https://github.com/ankith5980/Projects/tree/main/rotary-club-portal)
+A conprehensive club management system designed to streamline operations, member management and event planning and membership payment for the Rotary Club of Calicut South
+- **Tech Stack:** React, MongoDB Atlas, Tailwind CSS, Docker
+- **Features:** Member Management, Project Management, Event Planning, Payment Gateway
+
+### 🧑‍⚖️ [ICCIET 2025 Judging Portal](https://github.com/ankith5980/Projects/tree/main/iccet-judging)
+A judging portal for the International Conference on Computational Intelligence & Emerging Technologies (ICCIET) 2025, enabling judges to securely evaluate and score project submissions online. Developed by Ayush VP and Ankith Pratheesh Menon.
+- **Tech Stack:** Next.js, Supabase, TailwindCSS, TypeScript
+- **Features:** Grade Point Marking, Download as EXCEL file
+
+### 💱 [Skill-Swap : A Skill Exchange Platform](https://github.com/ankith5980/Projects/tree/main/skill-exchange)
+A production-ready full-stack web application for peer-to-peer skill exchange. Users can teach skills to earn points and spend points to learn from others.
+- **Tech Stack:** TypeScript, MongoDB, Socket.io, Express.js
+- **Features:** Registration, Teach to Earn coins, Spend coins to learn, Message mentor/tutor, Schedule Session
+
+### 🖥️ [AI Multi-Agent Research System](https://github.com/ankith5980/Projects/tree/main/multi-agent-research-system)
+A fully local, decoupled AI system where multiple agents collaborate using a graph-based state machine to autonomously research topics, analyze data via vector stores, and generate comprehensive reports.
+- **Tech Stack:** Next.js, LangGraph, Python, FAISS, FastAPI
+- **Features:** Multi-Agent RAG System
+
+### 🕵️‍♀️ [NEXUS AI Fraud Vanguard](https://github.com/ankith5980/Projects/tree/main/ai-fraud-detection)
+An AI-powered fraud detection system that leverages advanced machine learning algorithms and real-time data analysis to identify and detect fraudulent activities across various transactional domains.
+- **Tech Stack:** Docker, Scikit-Learn, Kafka, Redis, FastAPI
+- **Features:** Transaction Detection, Fraud Reporting, Can be integrated with real-time systems
+
+### 📊 [Automated AI Data Analyst](https://github.com/ankith5980/Projects/tree/main/ai-data-analysis-system)
+An AI-powered data analysis and visualization tool that enables users to upload datasets, perform exploratory data analysis, and generate insightful visualizations and reports using natural language queries.
+- **Tech Stack:** Python, Next.js, Ollama, FastAPI, LangGraph
+- **Features:** Automated - EDA, Data Cleaning, ML Model Selection, Data Masking; Analysis Reporting
 ---
 
 ## 📊 GitHub Stats
@@ -109,7 +138,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4285F4?style=for-the-badge)](https://portfolio-ankith.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankith_Pratheesh_Menon-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankith-pratheesh-menon-0353662b6/)
 [![Email](https://img.shields.io/badge/Email-ankithpratheesh147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankithpratheesh147@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@ankith5980-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankith5980/)
+[![Instagram](https://img.shields.io/badge/Instagram-@ankith.pm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankith.pm/)
 
 </div>
 
