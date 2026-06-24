@@ -77,7 +77,7 @@ I'm a passionate developer from **Kozhikode, Kerala, India** who loves creating 
 A modern, responsive portfolio website showcasing my projects and skills
 - **Tech Stack:** React, Node.js, MongoDB, Express, Tailwind CSS, Framer Motion
 - **Features:** Dark mode, animations, SEO optimized, admin dashboard
-- **Live Demo:** [portfolio-ankith.vercel.app](https://portfolio-ankith.vercel.app)
+- **Live Demo:** [I'm Here](https://portfolio-ankith.vercel.app)
 
 ### 📚 [KOHA Library Management System](https://github.com/ankith5980/Projects/tree/main/label)
 Continuous development and enhancement of KOHA Library Management System
@@ -118,11 +118,13 @@ An AI-powered data analysis and visualization tool that enables users to upload 
 A luxury home and commercial interior and exterior lighting company based in Doha, Qatar. The website features a sleek, modern design with an emphasis on high-quality visuals and user experience.
 - **Tech Stack:** Express.js, Next.js, GSAP, Tailwind CSS, Resend, Postman
 - **Features:** Displays the luxury interior and exterior lighting segments for both personal and commercial buildings. Also features a contact form for business inquiries.
+- **Live Demo:** [ABC-LUX](https://abc-lux.vercel.app/)
 
 ### 🌊 [Wolgan](https://github.com/ankith5980/Wolgan/tree/wolgan-bug-fix)
 A Middle-East based B2B Water Treatment company specializing in advanced water purification solutions. The website features a clean, modern design with an emphasis on showcasing the company\'s products and services.
 - **Tech Stack:** Next.js, Next.js API Routes, GSAP, Tailwind CSS, Resend, Postman, Cloudflare
 - **Features:** Displays various large-scale services offered by the firm. Also features a contact form for business inquiries.
+- **Live Demo:** [Wolgan](https://www.wolgan.co/)
 
 ### 👩‍💻 [Context-Aware Accessibility Linter](https://github.com/ankith5980/Mini_Project/tree/main/DTP_CAAL)
 An AI-augmented developer tool designed to automatically detect and remediate accessibility errors by evaluating DOM context. Evolving from a real-time browser extension into an enterprise-grade CI/CD pipeline integration, this project aims to provide a comprehensive B2B SaaS solution for automated software accessibility compliance.
