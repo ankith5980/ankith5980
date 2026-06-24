@@ -37,6 +37,7 @@ I'm a passionate developer from **Kozhikode, Kerala, India** who loves creating 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,6 +45,8 @@ I'm a passionate developer from **Kozhikode, Kerala, India** who loves creating 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -59,12 +62,17 @@ I'm a passionate developer from **Kozhikode, Kerala, India** who loves creating 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🌟 [MERN Portfolio Website](https://portfolio-ankith.vercel.app)
+### 🌟 [Personal Portfolio Website](https://portfolio-ankith.vercel.app)
 A modern, responsive portfolio website showcasing my projects and skills
 - **Tech Stack:** React, Node.js, MongoDB, Express, Tailwind CSS, Framer Motion
 - **Features:** Dark mode, animations, SEO optimized, admin dashboard
@@ -115,7 +123,7 @@ A Middle-East based B2B Water Treatment company specializing in advanced water p
 - **Tech Stack:** Next.js, Next.js API Routes, GSAP, Tailwind CSS, Resend, Postman, Cloudflare
 - **Features:** Displays various large-scale services offered by the firm. Also features a contact form for business inquiries.
 
-### 👩‍💻 [Context-Aware Accessibility Linter] (https://github.com/ankith5980/Mini_Project/tree/main/DTP_CAAL)
+### 👩‍💻 [Context-Aware Accessibility Linter](https://github.com/ankith5980/Mini_Project/tree/main/DTP_CAAL)
 An AI-augmented developer tool designed to automatically detect and remediate accessibility errors by evaluating DOM context. Evolving from a real-time browser extension into an enterprise-grade CI/CD pipeline integration, this project aims to provide a comprehensive B2B SaaS solution for automated software accessibility compliance.
 - **Tech Stack:** Node.js, Playwright, Browser Extension API, AI DOM Analysis, React, LLM API
 - **Features:** Website Tech Stack Detection, DOM Element Analysis, Element-Wise Accessibility Checker, Smart Fix Suggestions
