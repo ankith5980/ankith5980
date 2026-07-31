@@ -62,6 +62,7 @@ I'm a passionate developer from **Kozhikode, Kerala, India** who loves creating 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -113,18 +114,6 @@ An AI-powered fraud detection system that leverages advanced machine learning al
 An AI-powered data analysis and visualization tool that enables users to upload datasets, perform exploratory data analysis, and generate insightful visualizations and reports using natural language queries.
 - **Tech Stack:** Python, Next.js, Ollama, FastAPI, LangGraph
 - **Features:** Automated - EDA, Data Cleaning, ML Model Selection, Data Masking; Analysis Reporting
-
-### 💡 [ABC-LUX](https://github.com/ankith5980/ABC-LUX/tree/bug-fixes)
-A luxury home and commercial interior and exterior lighting company based in Doha, Qatar. The website features a sleek, modern design with an emphasis on high-quality visuals and user experience.
-- **Tech Stack:** Express.js, Next.js, GSAP, Tailwind CSS, Resend, Postman
-- **Features:** Displays the luxury interior and exterior lighting segments for both personal and commercial buildings. Also features a contact form for business inquiries.
-- **Live Demo:** [ABC-LUX](https://abc-lux.vercel.app/)
-
-### 🌊 [Wolgan](https://github.com/ankith5980/Wolgan/tree/wolgan-bug-fix)
-A Middle-East based B2B Water Treatment company specializing in advanced water purification solutions. The website features a clean, modern design with an emphasis on showcasing the company\'s products and services.
-- **Tech Stack:** Next.js, Next.js API Routes, GSAP, Tailwind CSS, Resend, Postman, Cloudflare
-- **Features:** Displays various large-scale services offered by the firm. Also features a contact form for business inquiries.
-- **Live Demo:** [Wolgan](https://www.wolgan.co/)
 
 ### 👩‍💻 [Context-Aware Accessibility Linter](https://github.com/ankith5980/Mini_Project/tree/main/DTP_CAAL)
 An AI-augmented developer tool designed to automatically detect and remediate accessibility errors by evaluating DOM context. Evolving from a real-time browser extension into an enterprise-grade CI/CD pipeline integration, this project aims to provide a comprehensive B2B SaaS solution for automated software accessibility compliance.
